@@ -1,4 +1,4 @@
-# ODR_MSME
+# 🚀 ODR_MSME
 # MSME-25: AI-Assisted Dispute Resolution Platform
 
 [![Static Badge](https://img.shields.io/badge/Status-Development-orange)](#)
